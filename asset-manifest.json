@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal-website-react/static/css/main.ba34d29f.css",
+    "main.js": "/personal-website-react/static/js/main.d0b52524.js",
+    "static/media/github.svg": "/personal-website-react/static/media/github.566c7bedaf3ffffa06be08bd6063eca1.svg",
+    "static/media/graduation-cap-solid.svg": "/personal-website-react/static/media/graduation-cap-solid.a92d2f19c5b925c1f4a4c18efe3487de.svg",
+    "static/media/linkedin.svg": "/personal-website-react/static/media/linkedin.e6caf06bea36e8c1fd7545706cd71c86.svg",
+    "static/media/envelope-regular.svg": "/personal-website-react/static/media/envelope-regular.30e38c5430f3e330a2f839e8445d4714.svg",
+    "index.html": "/personal-website-react/index.html",
+    "static/media/briefcase-solid.svg": "/personal-website-react/static/media/briefcase-solid.c700909d354f31a2d609b0584216abb4.svg",
+    "static/media/user-regular.svg": "/personal-website-react/static/media/user-regular.9d478c938401ef5be16e423954f84900.svg",
+    "main.ba34d29f.css.map": "/personal-website-react/static/css/main.ba34d29f.css.map",
+    "main.d0b52524.js.map": "/personal-website-react/static/js/main.d0b52524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba34d29f.css",
+    "static/js/main.d0b52524.js"
+  ]
+}
