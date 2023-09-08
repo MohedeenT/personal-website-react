@@ -55,18 +55,14 @@ header a :hover {
   margin-right: 1em;
 }
 footer {
-  display: fixed;
+  display: flex;
   text-align: center;
-  margin-top: 2%;
 }
-footer img {
-  width: 20px;
-  position: inherit;
-  margin-right: 2px;
-}
+footer img,
 footer a {
-  color: #000000;
-  text-decoration: none;
+  width: 20px;
+  margin: auto;
+  height: 25px;
 }
 .links h4 {
   margin-right: 20px;
@@ -77,13 +73,12 @@ footer a {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 5px 5px;
   cursor: pointer;
   border-radius: 20px;
-  max-height: 60px; /* to avoid having the buttons resize in height, I added the max-height property*/
-  max-width: 33%;
 }
 #svg-image {
   background-color: #ffffff;

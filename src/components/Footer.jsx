@@ -5,18 +5,16 @@ import linked from "./images/linkedin.svg"
 export default function Footer(){
     return(<footer>
         <div className="footer-button">
-          <img src={gh} alt="" />
-          <a href="https://github.com/MohedeenT" target="_blank">GitHub</a>
+          <a href="https://github.com/MohedeenT" target="_blank"><img src={gh} alt="" /></a>
         </div>
         <div className="footer-button">
-          <img src={mail}alt="" />
-          <a href="mailto:mohedine.tabbara@gmail.com" target="_blank">Email</a>
+          <a href="mailto:mohedine.tabbara@gmail.com" target="_blank"><img src={mail}alt="" /></a>
         </div>
         <div className="footer-button">
-          <img src={linked} alt="" /><a
-            href="https://www.linkedin.com/in/mohedine-tabbara-534720236/"
+          <a
+            href="https://www.linkedin.com/in/mohedeen-tabbara/"
             target="_blank"
-            >LinkedIn</a>
+            ><img src={linked} alt="" /></a>
         </div>
       </footer>)
 }
